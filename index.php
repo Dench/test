@@ -1,3 +1,3 @@
 <?php
 
-echo "index main";
+echo "index main world";
